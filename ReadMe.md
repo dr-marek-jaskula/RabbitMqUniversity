@@ -12,3 +12,11 @@ We will use the default exchange
 ## Competing Consumer pattern
 
 The Competing Consumer pattern is implemented
+
+## Useful commands
+
+> rabbitmqctl status
+
+> rabbitmq-plugins --help
+
+> rabbitmq-plugins list
